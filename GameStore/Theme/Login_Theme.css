@@ -1,0 +1,38 @@
+﻿.formTopSpace {
+    margin-top: 10%;
+}
+
+.imageBox img {
+    max-width: 40%;
+    margin-top: 4%;
+    border-radius: 50%;
+    border: 5px solid #43018E;
+}
+
+.inputBox input {
+    width: 100%;
+    padding: 12px 20px;
+    border: 1px solid #ccc;
+}
+
+.logInButton button {
+    background-color: #9E00D8;
+    color: white;
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.logInButton input {
+    width: 5%;
+}
+
+.newUserButton button {
+    background-color: #4B16F9;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    width: 40%;
+}
