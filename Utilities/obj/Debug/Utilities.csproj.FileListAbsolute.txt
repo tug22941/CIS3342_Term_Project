@@ -4,3 +4,8 @@ C:\Users\ninjakid362\OneDrive\Desktop\Project 4 Notes\GameStore\Utilities\obj\De
 C:\Users\ninjakid362\OneDrive\Desktop\Project 4 Notes\GameStore\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
 C:\Users\ninjakid362\OneDrive\Desktop\Project 4 Notes\GameStore\Utilities\obj\Debug\Utilities.dll
 C:\Users\ninjakid362\OneDrive\Desktop\Project 4 Notes\GameStore\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Administrator\Desktop\CIS3342_Term_Project\Utilities\bin\Debug\Utilities.dll
+C:\Users\Administrator\Desktop\CIS3342_Term_Project\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Administrator\Desktop\CIS3342_Term_Project\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CIS3342_Term_Project\Utilities\obj\Debug\Utilities.dll
+C:\Users\Administrator\Desktop\CIS3342_Term_Project\Utilities\obj\Debug\Utilities.pdb
