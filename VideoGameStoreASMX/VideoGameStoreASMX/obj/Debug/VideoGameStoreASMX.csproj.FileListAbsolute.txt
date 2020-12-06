@@ -1,0 +1,315 @@
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameStoreASMX.dll.config
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameStoreASMX.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameStoreASMX.pdb
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csc.exe
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csc.exe.config
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csc.rsp
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csi.exe
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csi.exe.config
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csi.rsp
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.AppContext.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Console.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Net.Http.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\vbc.exe
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\vbc.exe.config
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\vbc.rsp
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.csprojAssemblyReference.cache
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.csproj.CoreCompileInputs.cache
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.csproj.CopyComplete
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.pdb
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameLibrary.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameLibrary.pdb
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\Newtonsoft.Json.dll
+C:\Users\HP ELITE\source\repos\VideoGameStoreASMX\VideoGameStoreASMX\bin\Newtonsoft.Json.xml
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameStoreASMX.dll.config
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameStoreASMX.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameStoreASMX.pdb
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csc.exe
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csc.exe.config
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csc.rsp
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csi.exe
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csi.exe.config
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csi.rsp
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.AppContext.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Console.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Net.Http.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\vbc.exe
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\vbc.exe.config
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\vbc.rsp
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\Newtonsoft.Json.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameLibrary.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameLibrary.pdb
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\Newtonsoft.Json.xml
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.csprojAssemblyReference.cache
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.csproj.CoreCompileInputs.cache
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.csproj.CopyComplete
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.pdb
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameStoreASMX.dll.config
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameStoreASMX.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameStoreASMX.pdb
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csc.exe
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csc.exe.config
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csc.rsp
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csi.exe
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csi.exe.config
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csi.rsp
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.AppContext.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Console.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Net.Http.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\vbc.exe
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\vbc.exe.config
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\vbc.rsp
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\Newtonsoft.Json.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameLibrary.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameLibrary.pdb
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\Newtonsoft.Json.xml
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.csprojAssemblyReference.cache
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.csproj.CoreCompileInputs.cache
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.csproj.CopyComplete
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.dll
+C:\Users\HP ELITE\source\repos\TP_VideoGameStore - Copy\Ethan\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.pdb
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameStoreASMX.dll.config
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameStoreASMX.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameStoreASMX.pdb
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csc.rsp
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csi.exe
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csi.rsp
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Net.Http.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameLibrary.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameLibrary.pdb
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.csproj.CopyComplete
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.dll
+C:\Users\Administrator\Desktop\CIS3342\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.pdb
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameStoreASMX.dll.config
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameStoreASMX.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameStoreASMX.pdb
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csc.exe
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csc.exe.config
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csc.rsp
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csi.exe
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csi.exe.config
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\csi.rsp
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.AppContext.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Console.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.IO.Compression.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Net.Http.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.ValueTuple.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\vbc.exe
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\vbc.exe.config
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\vbc.rsp
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\VBCSCompiler.exe
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\Newtonsoft.Json.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameLibrary.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\VideoGameLibrary.pdb
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\Newtonsoft.Json.xml
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.csprojAssemblyReference.cache
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.csproj.CoreCompileInputs.cache
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.csproj.CopyComplete
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.dll
+C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameStoreASMX\VideoGameStoreASMX\obj\Debug\VideoGameStoreASMX.pdb

@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en-US">	
+<head>
+	<title>My Dating App</title>
+	<link rel="stylesheet" href="Styles/main.css" />
+	<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.3.min.js"></script>	
+</head> 	
+<body>
+	<!-- Header section -->
+	<header>
+		<h1 class="main">My Dating App</h1>
+		<div class="filter-section">
+			<b>Gender</b>
+			<select id="selGenderFilter">
+				<option value="A">Any</option>
+				<option value="M">Male</option>
+				<option value="F">Female</option>
+			</select>
+			<b>State</b>
+			<select id="selStateFilter">
+				<option value="A">Any</option>
+				<option value="AL">Alabama</option>
+				<option value="AK">Alaska</option>
+				<option value="AZ">Arizona</option>
+				<option value="AR">Arkansas</option>
+				<option value="CA">California</option>
+				<option value="CO">Colorado</option>
+				<option value="CT">Connecticut</option>
+				<option value="DE">Delaware</option>
+				<option value="DC">District Of Columbia</option>
+				<option value="FL">Florida</option>
+				<option value="GA">Georgia</option>
+				<option value="HI">Hawaii</option>
+				<option value="ID">Idaho</option>
+				<option value="IL">Illinois</option>
+				<option value="IN">Indiana</option>
+				<option value="IA">Iowa</option>
+				<option value="KS">Kansas</option>
+				<option value="KY">Kentucky</option>
+				<option value="LA">Louisiana</option>
+				<option value="ME">Maine</option>
+				<option value="MD">Maryland</option>
+				<option value="MA">Massachusetts</option>
+				<option value="MI">Michigan</option>
+				<option value="MN">Minnesota</option>
+				<option value="MS">Mississippi</option>
+				<option value="MO">Missouri</option>
+				<option value="MT">Montana</option>
+				<option value="NE">Nebraska</option>
+				<option value="NV">Nevada</option>
+				<option value="NH">New Hampshire</option>
+				<option value="NJ">New Jersey</option>
+				<option value="NM">New Mexico</option>
+				<option value="NY">New York</option>
+				<option value="NC">North Carolina</option>
+				<option value="ND">North Dakota</option>
+				<option value="OH">Ohio</option>
+				<option value="OK">Oklahoma</option>
+				<option value="OR">Oregon</option>
+				<option value="PA">Pennsylvania</option>
+				<option value="RI">Rhode Island</option>
+				<option value="SC">South Carolina</option>
+				<option value="SD">South Dakota</option>
+				<option value="TN">Tennessee</option>
+				<option value="TX">Texas</option>
+				<option value="UT">Utah</option>
+				<option value="VT">Vermont</option>
+				<option value="VA">Virginia</option>
+				<option value="WA">Washington</option>
+				<option value="WV">West Virginia</option>
+				<option value="WI">Wisconsin</option>
+				<option value="WY">Wyoming</option>
+			</select>
+		</div>
+		<div style="float:right;margin:20px">
+			<span id="spanLoggedInUserName"></span><a style="margin-left:7px;font-weight:bold;color:#2a1484" onclick="logout();" href="#">Log out</a>
+		</div>
+		<nav>
+			<ul>
+				<li><a id="aDating" class="active" href="Dating.html">Home</a></li>
+				<li><a id="aLiked" onclick="loadLikes(event)" href="#">Liked</a></li>
+				<li><a id="aPassed" onclick="loadPassed(event)" href="#">Passed</a></li>
+				<li><a id="aMyProfile" onclick="loadMyProfile(event)" href="#">My Profile</a></li>
+				<li><a id="aAddProfile" onclick="loadAddProfile(event)" href="#">Add Profile</a></li>
+			</ul>
+		</nav>
+	</header>
+	<!-- Navigation / Menu -->
+	<!-- Content panel -->
+	<main>
+		<div class="flex-grid">
+			<div id="divProfiles" class="view"></div>
+			<div id="divLiked" class="view" style="display:none"></div>
+			<div id="divPassed" class="view" style="display:none"></div>
+			<div id="divMyProfile" class="view" style="display:none">
+				<div>
+					<label for="inpTitle">Title:</label><input id="inpTitle" type="text">
+				</div>
+				<div>
+					<label for="inpFullName">Full Name:</label><input id="inpFullName" type="text">
+				</div>
+				<div>
+					<label for="inpAge">Age:</label><input id="inpAge" type="number" min="18">
+				</div>
+				<div>
+					<label for="selGender">Gender:</label>
+					<select id="selGender">
+						<option value=""></option>
+						<option value="M">Male</option>
+						<option value="F">Female</option>
+					</select>
+				</div>
+				<div>
+					<label for="txaDescription">Profile Description:</label><textarea id="txaDescription" rows="3"></textarea>
+				</div>
+				<div>
+					<label for="inpCity">City:</label><input id="inpCity" type="text">
+				</div>
+				<div>
+					<label for="selState">State:</label>
+					<select id="selState">
+						<option value=""></option>
+						<option value="AL">Alabama</option>
+						<option value="AK">Alaska</option>
+						<option value="AZ">Arizona</option>
+						<option value="AR">Arkansas</option>
+						<option value="CA">California</option>
+						<option value="CO">Colorado</option>
+						<option value="CT">Connecticut</option>
+						<option value="DE">Delaware</option>
+						<option value="DC">District Of Columbia</option>
+						<option value="FL">Florida</option>
+						<option value="GA">Georgia</option>
+						<option value="HI">Hawaii</option>
+						<option value="ID">Idaho</option>
+						<option value="IL">Illinois</option>
+						<option value="IN">Indiana</option>
+						<option value="IA">Iowa</option>
+						<option value="KS">Kansas</option>
+						<option value="KY">Kentucky</option>
+						<option value="LA">Louisiana</option>
+						<option value="ME">Maine</option>
+						<option value="MD">Maryland</option>
+						<option value="MA">Massachusetts</option>
+						<option value="MI">Michigan</option>
+						<option value="MN">Minnesota</option>
+						<option value="MS">Mississippi</option>
+						<option value="MO">Missouri</option>
+						<option value="MT">Montana</option>
+						<option value="NE">Nebraska</option>
+						<option value="NV">Nevada</option>
+						<option value="NH">New Hampshire</option>
+						<option value="NJ">New Jersey</option>
+						<option value="NM">New Mexico</option>
+						<option value="NY">New York</option>
+						<option value="NC">North Carolina</option>
+						<option value="ND">North Dakota</option>
+						<option value="OH">Ohio</option>
+						<option value="OK">Oklahoma</option>
+						<option value="OR">Oregon</option>
+						<option value="PA">Pennsylvania</option>
+						<option value="RI">Rhode Island</option>
+						<option value="SC">South Carolina</option>
+						<option value="SD">South Dakota</option>
+						<option value="TN">Tennessee</option>
+						<option value="TX">Texas</option>
+						<option value="UT">Utah</option>
+						<option value="VT">Vermont</option>
+						<option value="VA">Virginia</option>
+						<option value="WA">Washington</option>
+						<option value="WV">West Virginia</option>
+						<option value="WI">Wisconsin</option>
+						<option value="WY">Wyoming</option>
+					</select>
+				</div>
+				<div>
+					<label for="status">Status:</label>
+					<input type="radio" id="single" name="status" value="single">
+					<label style="font-weight:normal" for="single">Single</label>
+					<input type="radio" id="taken" name="status" value="taken">
+					<label style="font-weight:normal" for="taken">Taken</label>
+				</div>
+				<div>
+					<label for="haskids">Do you have kids?</label>
+					<input type="radio" id="yesKids" name="haskids" value="yesKids">
+					<label style="font-weight:normal" for="yesKids">Yes</label>
+					<input type="radio" id="noKids" name="haskids" value="noKids">
+					<label style="font-weight:normal" for="noKids">No</label>
+				</div>
+				<div>
+					<label for="wantskids">Do you want kids?</label>
+					<input type="radio" id="yesWantKids" name="wantskids" value="yesWantKids">
+					<label style="font-weight:normal" for="yesWantKids">Yes</label>
+					<input type="radio" id="noWantKids" name="wantskids" value="noWantKids">
+					<label style="font-weight:normal" for="noWantKids">No</label>
+				</div>
+				<div>
+					<label for="selReligion">Religion:</label>
+					<select id="selReligion">
+						<option value=""></option>
+						<option value="christian">christian</option>
+						<option value="catholic">catholic</option>
+						<option value="muslim">muslim</option>
+						<option value="budist">budist</option>
+						<option value="non-religious">non-religious</option>
+						<option value="other">other</option>
+					</select>
+				</div>
+				<div>
+					<label for="selRelationshipType">Type of Relationship:</label>
+					<select id="selRelationshipType">
+						<option value=""></option>
+						<option value="long term">long term</option>
+						<option value="short term">short term</option>
+						<option value="friends">friends</option>
+						<option value="casual">casual</option>
+					</select>
+				</div>
+				<div>
+					<label for="inpImgUrl">Image URL:</label><input id="inpImgUrl" type="text">
+				</div>
+				
+				<div style="margin-top:15px" class="flex-grid">
+					<button class="button" onclick="saveProfile();">Save</button>
+					<button id="btnEnableProfile" class="button button-blue" style="margin-left:15px">Enable My Profile</button>
+					<button id="btnDisableProfile" class="button button-red" style="margin-left:15px">Disable My Profile</button>
+					<button id="btnDeleteProfile" class="button button-red" style="margin-left:15px">Delete My Profile</button>
+				</div>
+				
+
+			</div>
+			<div id="divAddProfile" class="view" style="display:none">
+				<div>
+					<label for="inpTitleAdd">Title:</label><input id="inpTitleAdd" type="text">
+				</div>
+				<div>
+					<label for="inpFullNameAdd">Full Name:</label><input id="inpFullNameAdd" type="text">
+				</div>
+				<div>
+					<label for="inpAgeAdd">Age:</label><input id="inpAgeAdd" type="number" min="18">
+				</div>
+				<div>
+					<label for="selGenderAdd">Gender:</label>
+					<select id="selGenderAdd">
+						<option value=""></option>
+						<option value="M">Male</option>
+						<option value="F">Female</option>
+					</select>
+				</div>
+				<div>
+					<label for="txaDescriptionAdd">Profile Description:</label><textarea id="txaDescriptionAdd" rows="3"></textarea>
+				</div>
+				<div>
+					<label for="inpCityAdd">City:</label><input id="inpCityAdd" type="text">
+				</div>
+				<div>
+					<label for="selStateAdd">State:</label>
+					<select id="selStateAdd">
+						<option value=""></option>
+						<option value="AL">Alabama</option>
+						<option value="AK">Alaska</option>
+						<option value="AZ">Arizona</option>
+						<option value="AR">Arkansas</option>
+						<option value="CA">California</option>
+						<option value="CO">Colorado</option>
+						<option value="CT">Connecticut</option>
+						<option value="DE">Delaware</option>
+						<option value="DC">District Of Columbia</option>
+						<option value="FL">Florida</option>
+						<option value="GA">Georgia</option>
+						<option value="HI">Hawaii</option>
+						<option value="ID">Idaho</option>
+						<option value="IL">Illinois</option>
+						<option value="IN">Indiana</option>
+						<option value="IA">Iowa</option>
+						<option value="KS">Kansas</option>
+						<option value="KY">Kentucky</option>
+						<option value="LA">Louisiana</option>
+						<option value="ME">Maine</option>
+						<option value="MD">Maryland</option>
+						<option value="MA">Massachusetts</option>
+						<option value="MI">Michigan</option>
+						<option value="MN">Minnesota</option>
+						<option value="MS">Mississippi</option>
+						<option value="MO">Missouri</option>
+						<option value="MT">Montana</option>
+						<option value="NE">Nebraska</option>
+						<option value="NV">Nevada</option>
+						<option value="NH">New Hampshire</option>
+						<option value="NJ">New Jersey</option>
+						<option value="NM">New Mexico</option>
+						<option value="NY">New York</option>
+						<option value="NC">North Carolina</option>
+						<option value="ND">North Dakota</option>
+						<option value="OH">Ohio</option>
+						<option value="OK">Oklahoma</option>
+						<option value="OR">Oregon</option>
+						<option value="PA">Pennsylvania</option>
+						<option value="RI">Rhode Island</option>
+						<option value="SC">South Carolina</option>
+						<option value="SD">South Dakota</option>
+						<option value="TN">Tennessee</option>
+						<option value="TX">Texas</option>
+						<option value="UT">Utah</option>
+						<option value="VT">Vermont</option>
+						<option value="VA">Virginia</option>
+						<option value="WA">Washington</option>
+						<option value="WV">West Virginia</option>
+						<option value="WI">Wisconsin</option>
+						<option value="WY">Wyoming</option>
+					</select>
+				</div>
+				<div>
+					<label for="statusAdd">Status:</label>
+					<input type="radio" id="singleAdd" name="statusAdd" value="single">
+					<label style="font-weight:normal" for="singleAdd">Single</label>
+					<input type="radio" id="takenAdd" name="statusAdd" value="taken">
+					<label style="font-weight:normal" for="takenAdd">Taken</label>
+				</div>
+				<div>
+					<label for="haskidsAdd">Do you have kids?</label>
+					<input type="radio" id="yesKidsAdd" name="haskidsAdd" value="yesKids">
+					<label style="font-weight:normal" for="yesKidsAdd">Yes</label>
+					<input type="radio" id="noKidsAdd" name="haskidsAdd" value="noKids">
+					<label style="font-weight:normal" for="noKidsAdd">No</label>
+				</div>
+				<div>
+					<label for="wantskidsAdd">Do you want kids?</label>
+					<input type="radio" id="yesWantKidsAdd" name="wantskidsAdd" value="yesWantKids">
+					<label style="font-weight:normal" for="yesWantKidsAdd">Yes</label>
+					<input type="radio" id="noWantKidsAdd" name="wantskidsAdd" value="noWantKids">
+					<label style="font-weight:normal" for="noWantKidsAdd">No</label>
+				</div>
+				<div>
+					<label for="selReligionAdd">Religion:</label>
+					<select id="selReligionAdd">
+						<option value=""></option>
+						<option value="christian">christian</option>
+						<option value="catholic">catholic</option>
+						<option value="muslim">muslim</option>
+						<option value="budist">budist</option>
+						<option value="non-religious">non-religious</option>
+						<option value="other">other</option>
+					</select>
+				</div>
+				<div>
+					<label for="selRelationshipTypeAdd">Type of Relationship:</label>
+					<select id="selRelationshipTypeAdd">
+						<option value=""></option>
+						<option value="long term">long term</option>
+						<option value="short term">short term</option>
+						<option value="friends">friends</option>
+						<option value="casual">casual</option>
+					</select>
+				</div>
+				<div>
+					<label for="inpImgUrlAdd">Image URL:</label><input id="inpImgUrlAdd" type="text">
+				</div>
+				<button class="button" onclick="addProfile();">Add Profile</button>
+
+			</div>
+
+
+		</div>
+
+	</main>
+	<br>
+	<!-- Footer section -->
+	<footer>
+		<p>My Dating App &copy;2020 | Contact info: FirstName LastName: <a href="mailto:email@gmail.com">email@gmail.com</a></p>
+	</footer>
+	<script src="Scripts/dating.js"></script>
+	<script>
+		initControls();
+		loadProfiles();
+	</script>
+	<script type="text/javascript">function add_chatinline(){var hccid=74112477;var nt=document.createElement("script");nt.async=true;nt.src="https://mylivechat.com/chatinline.aspx?hccid="+hccid;var ct=document.getElementsByTagName("script")[0];ct.parentNode.insertBefore(nt,ct);}
+add_chatinline(); </script>
+</body> 	
+</html>

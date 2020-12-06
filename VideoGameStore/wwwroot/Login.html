@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en-US">	
+	<head>
+		<title>My Dating App</title>
+		<link rel="stylesheet" href="Styles/main.css" />
+		<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.3.min.js"></script>
+	</head> 	
+	<body class="authContainer">
+		<div id="divLogin" class="authForm">
+			<h2>Login</h2>
+			<div>
+				<input id="inpUsername" type="text" placeholder="username" required>
+			</div>
+			<div>
+				<input id="inpPassword" type="password" placeholder="password" required>
+			</div>
+			<div>
+				<button id="btnLogin" onclick="login();" class="button button-green" style="width:100%">Login</button>
+			</div>
+			<hr style="margin:15px 0"/>
+			<a onclick="loadRegister(event);" style="margin-top:15px;color:#ffc251" href="#">Register</a>
+		</div>
+		<div id="divRegister" class="authForm" style="display:none">
+			<h2>Register</h2>
+			<div>
+				<input id="inpNameRegister" type="text" placeholder="full name" required>
+			</div>
+			<div>
+				<input id="inpUsernameRegister" type="text" placeholder="username" required>
+			</div>
+			<div>
+				<input id="inpPasswordRegister" type="password" placeholder="password" required>
+			</div>
+			<div>
+				<input id="inpEmailRegister" type="email" placeholder="email" required>
+			</div>
+			<div>
+				<input id="inpPhoneRegister" type="tel" placeholder="phone number" required>
+			</div>
+			<div>
+				<input id="inpAddressRegister" type="tel" placeholder="address" required>
+			</div>
+			<div>
+				<input id="inpCityRegister" type="tel" placeholder="city" required>
+			</div>
+			<div>
+				<select id="selStateRegister" style="width:100%">
+					<option value="">State</option>
+					<option value="AL">Alabama</option>
+					<option value="AK">Alaska</option>
+					<option value="AZ">Arizona</option>
+					<option value="AR">Arkansas</option>
+					<option value="CA">California</option>
+					<option value="CO">Colorado</option>
+					<option value="CT">Connecticut</option>
+					<option value="DE">Delaware</option>
+					<option value="DC">District Of Columbia</option>
+					<option value="FL">Florida</option>
+					<option value="GA">Georgia</option>
+					<option value="HI">Hawaii</option>
+					<option value="ID">Idaho</option>
+					<option value="IL">Illinois</option>
+					<option value="IN">Indiana</option>
+					<option value="IA">Iowa</option>
+					<option value="KS">Kansas</option>
+					<option value="KY">Kentucky</option>
+					<option value="LA">Louisiana</option>
+					<option value="ME">Maine</option>
+					<option value="MD">Maryland</option>
+					<option value="MA">Massachusetts</option>
+					<option value="MI">Michigan</option>
+					<option value="MN">Minnesota</option>
+					<option value="MS">Mississippi</option>
+					<option value="MO">Missouri</option>
+					<option value="MT">Montana</option>
+					<option value="NE">Nebraska</option>
+					<option value="NV">Nevada</option>
+					<option value="NH">New Hampshire</option>
+					<option value="NJ">New Jersey</option>
+					<option value="NM">New Mexico</option>
+					<option value="NY">New York</option>
+					<option value="NC">North Carolina</option>
+					<option value="ND">North Dakota</option>
+					<option value="OH">Ohio</option>
+					<option value="OK">Oklahoma</option>
+					<option value="OR">Oregon</option>
+					<option value="PA">Pennsylvania</option>
+					<option value="RI">Rhode Island</option>
+					<option value="SC">South Carolina</option>
+					<option value="SD">South Dakota</option>
+					<option value="TN">Tennessee</option>
+					<option value="TX">Texas</option>
+					<option value="UT">Utah</option>
+					<option value="VT">Vermont</option>
+					<option value="VA">Virginia</option>
+					<option value="WA">Washington</option>
+					<option value="WV">West Virginia</option>
+					<option value="WI">Wisconsin</option>
+					<option value="WY">Wyoming</option>
+				</select>
+			</div>
+
+			<div>
+				<button id="btnRegister" onclick="register()" class="button button-blue" style="width:100%">Register</button>
+			</div>
+			<hr style="margin:15px 0" />
+			<a onclick="loadLogin(event);" style="margin-top:15px;color:#ffc251" href="#">Login</a>
+		</div>
+		<script src="Scripts/authenticate.js"></script>
+	</body> 
+	
+</html>
