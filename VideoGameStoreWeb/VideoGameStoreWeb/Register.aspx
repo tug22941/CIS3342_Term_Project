@@ -172,7 +172,19 @@
             </div>
             <hr style="margin: 15px 0" />
                 <span style="color:#fff; margin-right:7px">Existing user?</span><a style="margin-top: 15px; color: #ffc251" href="Login.aspx">Log in</a>
+
+            <div class="row mt-3">
+            <div class="col">
+                <asp:Label ID="lblMessage" runat="server" ForeColor="#FF3300"></asp:Label>
+            </div>
+                <div>
+                    <asp:Timer ID="Timer1" runat="server" OnTick="Timer1_Tick"></asp:Timer>
+                    <asp:Label ID="Label1" runat="server" Text="Label" Enabled="False"></asp:Label>
+                </div>
         </div>
+
+        </div>
+
 
         <asp:ScriptManager ID="ScriptManager1" runat="server">
             <Scripts>
