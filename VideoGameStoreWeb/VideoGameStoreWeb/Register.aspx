@@ -135,7 +135,7 @@
                     <div class="col-sm-9">
                         <asp:RadioButtonList ForeColor="White" ID="rblUserType" runat="server" RepeatDirection="Horizontal">
                     <asp:ListItem Value="Customer" Selected="True">Customer</asp:ListItem>
-                    <asp:ListItem Value="Game Producer">Game Producer</asp:ListItem>
+                    <asp:ListItem Value="Producer">Game Producer</asp:ListItem>
                     <asp:ListItem Value="Store Manager">Store Manager</asp:ListItem>
                 </asp:RadioButtonList>
                     </div>
