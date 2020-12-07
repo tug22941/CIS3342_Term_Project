@@ -1,4 +1,4 @@
-﻿using System;
+﻿  using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -56,7 +56,7 @@ namespace RestaurantReviewSystem
                 user.State = ddlState.SelectedValue;
                 user.Zip = txtZip.Text;
 
-                user.UserType = rblUserType.SelectedItem.Text;
+                user.UserType = rblUserType.SelectedValue;
 
                 user.FavoriteGame = txtFavoriteGame.Text;
                 user.MotherMaidenName = txtMotherMaidenName.Text;

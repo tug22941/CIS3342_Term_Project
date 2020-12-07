@@ -108,7 +108,7 @@ namespace WebAPI.Controllers
             objCmd.Parameters.Add(zip);
 
             //Create and define SqlParameter object for user Type
-            SqlParameter userType = new SqlParameter("@userType", newUser.Zip);
+            SqlParameter userType = new SqlParameter("@userType", newUser.UserType);
             userType.Direction = ParameterDirection.Input;
             userType.SqlDbType = SqlDbType.VarChar;
             userType.Size = 50;
@@ -134,6 +134,13 @@ namespace WebAPI.Controllers
             secQ3.SqlDbType = SqlDbType.VarChar;
             secQ3.Size = 50;
             objCmd.Parameters.Add(secQ3);
+
+            //Create and define SqlParameter object for Email verification
+            SqlParameter verified = new SqlParameter("@verified", newUser.Verified);
+            verified.Direction = ParameterDirection.Input;
+            verified.SqlDbType = SqlDbType.Bit;
+            verified.Size = 8;
+            objCmd.Parameters.Add(verified);
 
             //Check the return value for transaction success value
             int returnValue = objDB.DoUpdateUsingCmdObj(objCmd);

@@ -38,3 +38,4 @@ C:\Users\ninjakid362\Desktop\CIS3342_Term_Project\VideoGameLibrary\obj\Debug\Vid
 C:\Users\ninjakid362\Desktop\CIS3342_Term_Project\VideoGameLibrary\obj\Debug\VideoGameLibrary.csproj.CopyComplete
 C:\Users\ninjakid362\Desktop\CIS3342_Term_Project\VideoGameLibrary\obj\Debug\VideoGameLibrary.dll
 C:\Users\ninjakid362\Desktop\CIS3342_Term_Project\VideoGameLibrary\obj\Debug\VideoGameLibrary.pdb
+C:\Users\ninjakid362\Desktop\CIS3342_Term_Project\VideoGameLibrary\obj\Debug\VideoGameLibrary.csprojAssemblyReference.cache
