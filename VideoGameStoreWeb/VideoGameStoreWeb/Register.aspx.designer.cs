@@ -7,13 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace RestaurantReviewSystem
-{
-
-
-    public partial class Register
-    {
-
+namespace RestaurantReviewSystem {
+    
+    
+    public partial class Register {
+        
         /// <summary>
         /// form1 control.
         /// </summary>
@@ -22,7 +20,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
-
+        
         /// <summary>
         /// divRegister control.
         /// </summary>
@@ -31,7 +29,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl divRegister;
-
+        
         /// <summary>
         /// txtFirstName control.
         /// </summary>
@@ -40,7 +38,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtFirstName;
-
+        
         /// <summary>
         /// RequiredFieldValidator1 control.
         /// </summary>
@@ -49,7 +47,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator1;
-
+        
         /// <summary>
         /// txtLastName control.
         /// </summary>
@@ -58,7 +56,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtLastName;
-
+        
         /// <summary>
         /// RequiredFieldValidator2 control.
         /// </summary>
@@ -67,7 +65,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator2;
-
+        
         /// <summary>
         /// txtPhone control.
         /// </summary>
@@ -76,7 +74,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtPhone;
-
+        
         /// <summary>
         /// RequiredFieldValidator3 control.
         /// </summary>
@@ -85,7 +83,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator3;
-
+        
         /// <summary>
         /// txtEmail control.
         /// </summary>
@@ -94,7 +92,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtEmail;
-
+        
         /// <summary>
         /// RequiredFieldValidator4 control.
         /// </summary>
@@ -103,7 +101,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator4;
-
+        
         /// <summary>
         /// txtUsername control.
         /// </summary>
@@ -112,7 +110,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtUsername;
-
+        
         /// <summary>
         /// RequiredFieldValidator5 control.
         /// </summary>
@@ -121,7 +119,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator5;
-
+        
         /// <summary>
         /// txtPassword control.
         /// </summary>
@@ -130,7 +128,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtPassword;
-
+        
         /// <summary>
         /// RequiredFieldValidator6 control.
         /// </summary>
@@ -139,7 +137,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator6;
-
+        
         /// <summary>
         /// txtAddress control.
         /// </summary>
@@ -148,7 +146,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtAddress;
-
+        
         /// <summary>
         /// RequiredFieldValidator7 control.
         /// </summary>
@@ -157,7 +155,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator7;
-
+        
         /// <summary>
         /// txtCity control.
         /// </summary>
@@ -166,7 +164,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtCity;
-
+        
         /// <summary>
         /// RequiredFieldValidator13 control.
         /// </summary>
@@ -175,7 +173,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator13;
-
+        
         /// <summary>
         /// ddlState control.
         /// </summary>
@@ -184,7 +182,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.DropDownList ddlState;
-
+        
         /// <summary>
         /// RequiredFieldValidator8 control.
         /// </summary>
@@ -193,7 +191,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator8;
-
+        
         /// <summary>
         /// txtZip control.
         /// </summary>
@@ -202,7 +200,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtZip;
-
+        
         /// <summary>
         /// RequiredFieldValidator9 control.
         /// </summary>
@@ -211,7 +209,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator9;
-
+        
         /// <summary>
         /// rblUserType control.
         /// </summary>
@@ -220,7 +218,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RadioButtonList rblUserType;
-
+        
         /// <summary>
         /// txtFavoriteGame control.
         /// </summary>
@@ -229,7 +227,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtFavoriteGame;
-
+        
         /// <summary>
         /// RequiredFieldValidator10 control.
         /// </summary>
@@ -238,7 +236,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator10;
-
+        
         /// <summary>
         /// txtMotherMaidenName control.
         /// </summary>
@@ -247,7 +245,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtMotherMaidenName;
-
+        
         /// <summary>
         /// RequiredFieldValidator11 control.
         /// </summary>
@@ -256,7 +254,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator11;
-
+        
         /// <summary>
         /// txtFavoriteSport control.
         /// </summary>
@@ -265,7 +263,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtFavoriteSport;
-
+        
         /// <summary>
         /// RequiredFieldValidator12 control.
         /// </summary>
@@ -274,7 +272,7 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator12;
-
+        
         /// <summary>
         /// btnRegister control.
         /// </summary>
@@ -283,7 +281,34 @@ namespace RestaurantReviewSystem
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btnRegister;
-
+        
+        /// <summary>
+        /// lblMessage control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblMessage;
+        
+        /// <summary>
+        /// Timer1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.Timer Timer1;
+        
+        /// <summary>
+        /// Label1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label Label1;
+        
         /// <summary>
         /// ScriptManager1 control.
         /// </summary>

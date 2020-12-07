@@ -12209,11 +12209,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ninjakid362\\Desktop\\VideoGameStore\\VideoGameStore\\VideoGameStore.csproj",
+      "projectUniqueName": "C:\\Users\\ninjakid362\\Desktop\\CIS3342_Term_Project\\VideoGameStore\\VideoGameStore.csproj",
       "projectName": "VideoGameStore",
-      "projectPath": "C:\\Users\\ninjakid362\\Desktop\\VideoGameStore\\VideoGameStore\\VideoGameStore.csproj",
+      "projectPath": "C:\\Users\\ninjakid362\\Desktop\\CIS3342_Term_Project\\VideoGameStore\\VideoGameStore.csproj",
       "packagesPath": "C:\\Users\\ninjakid362\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ninjakid362\\Desktop\\VideoGameStore\\VideoGameStore\\obj\\",
+      "outputPath": "C:\\Users\\ninjakid362\\Desktop\\CIS3342_Term_Project\\VideoGameStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12232,8 +12232,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\ninjakid362\\Desktop\\VideoGameStore\\VideoGameLibrary\\VideoGameLibrary.csproj": {
-              "projectPath": "C:\\Users\\ninjakid362\\Desktop\\VideoGameStore\\VideoGameLibrary\\VideoGameLibrary.csproj"
+            "C:\\Users\\ninjakid362\\Desktop\\CIS3342_Term_Project\\VideoGameLibrary\\VideoGameLibrary.csproj": {
+              "projectPath": "C:\\Users\\ninjakid362\\Desktop\\CIS3342_Term_Project\\VideoGameLibrary\\VideoGameLibrary.csproj"
             }
           }
         }

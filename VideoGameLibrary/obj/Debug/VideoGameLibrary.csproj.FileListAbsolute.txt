@@ -32,3 +32,9 @@ C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameLibrary\obj\Debug\VideoGame
 C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameLibrary\obj\Debug\VideoGameLibrary.csproj.CopyComplete
 C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameLibrary\obj\Debug\VideoGameLibrary.dll
 C:\Users\ninjakid362\Desktop\VideoGameStore\VideoGameLibrary\obj\Debug\VideoGameLibrary.pdb
+C:\Users\ninjakid362\Desktop\CIS3342_Term_Project\VideoGameLibrary\bin\Debug\VideoGameLibrary.dll
+C:\Users\ninjakid362\Desktop\CIS3342_Term_Project\VideoGameLibrary\bin\Debug\VideoGameLibrary.pdb
+C:\Users\ninjakid362\Desktop\CIS3342_Term_Project\VideoGameLibrary\obj\Debug\VideoGameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ninjakid362\Desktop\CIS3342_Term_Project\VideoGameLibrary\obj\Debug\VideoGameLibrary.csproj.CopyComplete
+C:\Users\ninjakid362\Desktop\CIS3342_Term_Project\VideoGameLibrary\obj\Debug\VideoGameLibrary.dll
+C:\Users\ninjakid362\Desktop\CIS3342_Term_Project\VideoGameLibrary\obj\Debug\VideoGameLibrary.pdb
