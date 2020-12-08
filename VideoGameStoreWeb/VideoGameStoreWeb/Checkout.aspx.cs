@@ -91,6 +91,7 @@ namespace VideoGameStoreWeb
             //Application["Cart"] = null;
         }
 
+        //Event handler that updaes user's Order's table to show information on user's newly purchase title(s)/ displays success message
         protected void lbtnAddOrder_Click(object sender, EventArgs e)
         {
             try
@@ -115,6 +116,7 @@ namespace VideoGameStoreWeb
             
         }
 
+        //Method call that Adds user to game titles to database
         protected bool AddOrder(Order order)
         {
             try

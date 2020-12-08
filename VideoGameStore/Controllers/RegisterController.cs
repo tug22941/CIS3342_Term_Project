@@ -6,10 +6,14 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 using VideoGameLibrary; //Shared Library containig video-game store utilities
-//using VideoGameStore.Models;
 
 using System.Data.SqlClient;
 using System.Data;
+
+/*  CIS3342-001
+ *  Term Project:Video Game Store
+ *  Haolin Song & Jonah Saywonson
+ */
 
 //Web API controller responsible for adding a new user to the database
 

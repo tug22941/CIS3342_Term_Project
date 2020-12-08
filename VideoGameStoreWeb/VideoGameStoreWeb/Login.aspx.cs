@@ -10,6 +10,13 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using VideoGameLibrary;
 
+/*  CIS3342-001
+ *  Term Project:Video Game Store
+ *  Haolin Song & Jonah Saywonson
+ */
+
+//This Page contains the codebhind for the Login aspx p age
+
 namespace VideoGameStoreWeb
 {
     public partial class Login : System.Web.UI.Page
@@ -17,6 +24,7 @@ namespace VideoGameStoreWeb
         Utilities utl = new Utilities();
         protected void Page_Load(object sender, EventArgs e)
         {
+            //Check Cookie object for exsisting username and password and place values within textbox
             if (!IsPostBack)
             {
                 if (Request.Cookies["vgsUsername"] != null)
@@ -36,15 +44,19 @@ namespace VideoGameStoreWeb
             }
         }
 
+        //Event handler for Login button - sends HTTP request to the login action method of the VGS Web API
         protected void btnLogin_Click(object sender, EventArgs e)
         {
             string apiUrl = "https://localhost:44368/v1";
             User user = new User();
             user.Username = txtLoginUsername.Text;
+
             //password is sent encrypted
             user.Password = utl.Encrypt(txtLoginPassword.Text);
             var serializedParam = JsonConvert.SerializeObject(user);
             HttpClient client = new HttpClient();
+
+            //Asynchronoous Postback
             HttpContent content = new StringContent(serializedParam, Encoding.UTF8, "application/json");
             HttpResponseMessage response = client.PostAsync(apiUrl + "/Login", content).Result;            
             var data = response.Content.ReadAsStringAsync().Result;
@@ -76,11 +88,14 @@ namespace VideoGameStoreWeb
             }
         }
 
+        //method that activates the Script Manager - Displays Required field message for empty inputs
         protected void ShowMessage(string Message, String messageType)
         {
             ScriptManager.RegisterStartupScript(this, this.GetType(), System.Guid.NewGuid().ToString(), "ShowMessage('" + Message + "','" + messageType + "');", true);
         }
 
+      
+        //Set value and expiration period for Username and Password
         protected void SetRememberMeCookie()
         {
             if (chkRememberMe.Checked == true)

@@ -7,6 +7,13 @@ using VideoGameStore.Services;
 using VideoGameLibrary;
 using System.Data;
 
+/*  CIS3342-001
+ *  Term Project:Video Game Store
+ *  Haolin Song & Jonah Saywonson
+ */
+
+//This Restful Web API includes actions method for The Video Game Store Application
+
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace VideoGameStore.Controllers
