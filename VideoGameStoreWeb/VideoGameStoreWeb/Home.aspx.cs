@@ -7,19 +7,27 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using VideoGameLibrary;
 
+/*  CIS3342-001
+ *  Term Project:Video Game Store
+ *  Haolin Song & Jonah Saywonson
+ */
+
+//This page contains the code behind for the Home Page
+
 namespace VideoGameStoreWeb
 {
     public partial class Home : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            //Retrieve current user from application object
             if (!IsPostBack)
             {
                 try
                 {
                     User user = (User)Application["LoggedOnUser"];                    
 
-                    BindGames();
+                    BindGames();    //Call to BindGame method
                     switch (user.UserType)
                     {
                         case "Producer":
@@ -33,21 +41,15 @@ namespace VideoGameStoreWeb
 
                             break;
                     }
-
-
                 }
                 catch (Exception ex)
                 {
                     Response.Redirect("Login.aspx");
                 }
-            }
-            
-
-           
+            }  
         }
 
-        
-
+        //Method that sends HTTP request to the GetGames action method of the VGS Restful Web API
         protected void BindGames()
         {
             try
@@ -62,12 +64,13 @@ namespace VideoGameStoreWeb
                 HttpResponseMessage response = client.GetAsync(apiUrl).Result;
                 var data = response.Content.ReadAsStringAsync().Result;
 
+                //if the data, convert and databind to games gridview
                 if (data != null && data != "")
                 {
                     List<Game> games = JsonConvert.DeserializeObject<List<Game>>(data);
                     gvGames.DataSource = games;
                     gvGames.DataBind();
-                    BindGameFilters(games);
+                    BindGameFilters(games);//Bind dropdown filter value
                 }
                 else
                 {
@@ -82,6 +85,7 @@ namespace VideoGameStoreWeb
             
         }
 
+        //Method that binds the value of the game filter dropdown to value from database
         private void BindGameFilters(List<Game> games)
         {
             foreach (Game game in games)
@@ -100,18 +104,21 @@ namespace VideoGameStoreWeb
             }
         }
 
+
+        //Method that displays required field message of all applicable inputs
         protected void ShowMessage(string Message, String messageType)
         {
             ScriptManager.RegisterStartupScript(this, this.GetType(), System.Guid.NewGuid().ToString(), "ShowMessage('" + Message + "','" + messageType + "');", true);
         }
                 
-
+        //Event handler for moving swapping out game title at the current index
         protected void gvGames_RowEditing(object sender, GridViewEditEventArgs e)
         {
             gvGames.EditIndex = e.NewEditIndex;
-            BindGames();
+            BindGames();    //Call to BindGame method
         }
 
+        //Event handler that diplays game detals/approve game as an object
         protected void gvGames_RowCommand(object sender, GridViewCommandEventArgs e)
         {
             try
@@ -134,6 +141,7 @@ namespace VideoGameStoreWeb
                     approvedGame.ListedForSale = true;
                     //do update here
 
+                    //Issue Restful Web API call to the ApproveGame acion method of the VGSController
                     string apiUrl = "https://localhost:44368/v1";
                     var serializedParam = JsonConvert.SerializeObject(approvedGame);
                     HttpClient client = new HttpClient();
@@ -141,6 +149,7 @@ namespace VideoGameStoreWeb
                     HttpResponseMessage response = client.PutAsync(apiUrl + "/ApproveGame", content).Result;
                     var data = response.Content.ReadAsStringAsync().Result;
 
+                    //Display success/failure message depending on response data
                     if (Convert.ToBoolean(data))
                     {
                         //show success message
@@ -159,7 +168,6 @@ namespace VideoGameStoreWeb
             {
                 ShowMessage("Error approving game", "error");
             }
-            
         }
 
         protected void gvGames_RowUpdating(object sender, GridViewUpdateEventArgs e)
@@ -173,10 +181,9 @@ namespace VideoGameStoreWeb
             {
                 UpdateGameByStoreManager(e);
             }
-            
-
         }
 
+        //Method that allows Game Producers to create new game titles
         private void UpdateGameByProducer(GridViewUpdateEventArgs e)
         {
             try
@@ -220,6 +227,7 @@ namespace VideoGameStoreWeb
             
         }
 
+        //Event handler that allows Store manager to Edit the discount rate of a store title
         private void UpdateGameByStoreManager(GridViewUpdateEventArgs e)
         {
             try
@@ -259,12 +267,14 @@ namespace VideoGameStoreWeb
             
         }
 
+        //Event handler to exit the edit mode of the Games Gridview
         protected void gvGames_RowCancelingEdit(object sender, GridViewCancelEditEventArgs e)
         {
             gvGames.EditIndex = -1;
             BindGames();
         }
 
+        //Event handler that allows producers to create new game titles
         protected void btnAddGame_Click(object sender, EventArgs e)
         {
             try
@@ -312,6 +322,7 @@ namespace VideoGameStoreWeb
             
         }
 
+        //Event handler to remove a game title from the user homepage
         protected void gvGames_RowDeleting(object sender, GridViewDeleteEventArgs e)
         {
             try

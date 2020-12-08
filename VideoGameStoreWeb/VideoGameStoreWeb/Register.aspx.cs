@@ -154,6 +154,8 @@ namespace RestaurantReviewSystem
             return result;
         }
 
+        //Method that displays required field message of all applicable inputs
+
         protected void ShowMessage(string Message, String messageType)
         {
             ScriptManager.RegisterStartupScript(this, this.GetType(), System.Guid.NewGuid().ToString(), "ShowMessage('" + Message + "','" + messageType + "');", true);
